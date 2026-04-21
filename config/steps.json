@@ -1,0 +1,28 @@
+{
+    "trimming": [
+        "fastpALL",
+        "fastpQUAL",
+        "fastpMERGE",
+        "trimOFF"
+    ],
+    "rbdedup": [
+    	"clumpify",
+        "rbdOFF"
+    ],
+    "alignment": [
+        "mem2",
+        "bwt2",
+        "meme"
+    ],
+    "bbdedup": [
+        "bbdON",
+        "bbdOFF"
+    ],
+    "calling": [
+        "strelka2",
+        "strelka2ext",
+        "HC",
+        "deepvariant",
+        "freebayes"
+    ]
+}
