@@ -1,0 +1,2 @@
+#sid	link	md5	exp_cov	seq_depth
+SRR12898354	https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR128/054/SRR12898354/SRR12898354_1.fastq.gz;https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR128/054/SRR12898354/SRR12898354_2.fastq.gz	890cd0249fbfc8d796ad22294eeda07b;b2bc41ce28960942697f2171dd57eacd	24,7	76_465_057_536
